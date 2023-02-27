@@ -1,0 +1,15 @@
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\bin\Debug\net6.0\EjerciciosFacultadAutodidacta.exe
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\bin\Debug\net6.0\EjerciciosFacultadAutodidacta.deps.json
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\bin\Debug\net6.0\EjerciciosFacultadAutodidacta.runtimeconfig.json
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\bin\Debug\net6.0\EjerciciosFacultadAutodidacta.dll
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\bin\Debug\net6.0\EjerciciosFacultadAutodidacta.pdb
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\obj\Debug\net6.0\EjerciciosFacultadAutodidacta.csproj.AssemblyReference.cache
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\obj\Debug\net6.0\EjerciciosFacultadAutodidacta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\obj\Debug\net6.0\EjerciciosFacultadAutodidacta.AssemblyInfoInputs.cache
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\obj\Debug\net6.0\EjerciciosFacultadAutodidacta.AssemblyInfo.cs
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\obj\Debug\net6.0\EjerciciosFacultadAutodidacta.csproj.CoreCompileInputs.cache
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\obj\Debug\net6.0\EjerciciosFacultadAutodidacta.dll
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\obj\Debug\net6.0\refint\EjerciciosFacultadAutodidacta.dll
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\obj\Debug\net6.0\EjerciciosFacultadAutodidacta.pdb
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\obj\Debug\net6.0\EjerciciosFacultadAutodidacta.genruntimeconfig.cache
+C:\Users\fsociety\source\repos\EjerciciosFacultadAutodidacta\EjerciciosFacultadAutodidacta\obj\Debug\net6.0\ref\EjerciciosFacultadAutodidacta.dll
